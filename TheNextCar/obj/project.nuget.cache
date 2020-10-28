@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VrH71eLZoIWZKy2fHYE6FgQFhu5IVmu2dWnLe3F1BSt59hn/fDrb3LfuI1rqJYuaKCQEHfINJSSOiCiIQrThiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\Tugas\\Pemrog\\TheNextCar\\TheNextCar\\TheNextCar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Risto\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Risto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
